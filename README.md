@@ -1,6 +1,8 @@
 # Hi, I'm Sri Gantikota
 
-Senior Software Engineer focused on backend systems, data platforms, cloud integrations, and production workflow automation.
+Senior Software Engineer focused on backend systems, data platforms, cloud integrations, reliability workflows, and production automation.
+
+[Portfolio landing page](https://srigantikotakal.github.io) | [LinkedIn](https://www.linkedin.com/in/sri-kalyani-gantikota/)
 
 ## Core strengths
 
